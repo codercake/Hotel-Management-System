@@ -1,6 +1,6 @@
-# Wanderlust Hotel Management System
+# SlyPy Hotel Management System
 
-Wanderlust is a simple Hotel Management System built using Python, designed for beginners to understand basic programming concepts. This project incorporates fundamental programming features such as conditional statements, looping, lists, dictionaries, and operators.
+SlyPy is a simple Hotel Management System built using Python, designed for beginners to understand basic programming concepts. This project incorporates fundamental programming features such as conditional statements, looping, lists, dictionaries, and operators.
 
 ## Features
 
